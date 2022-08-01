@@ -1,8 +1,11 @@
-Div1{
-    font-size: 70px;
-    font-family: monospace;
-    background-color: blue;
-}
+
 Header{
     font-family: monospace;
+    background-color: black;
+    color: white;
+}
+.ej{
+    font-family: monospace;
+    background-color: black;
+    color: white;   
 }
